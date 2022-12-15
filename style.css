@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(226, 236, 255);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    max-width: 900px;
+    margin: 0 auto; 
+}
+
+article { 
+    padding: 10px 110px 20px 110px;
+}
+
+main { 
+    background-color: white;
+}
+img {
+    width: 100%
+}
+h1 {
+    font-size: 60px;
+    margin: 0px;
+}
+
+#summer {
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 6px;
+}
+
+.title {
+    position: absolute;
+    bottom: 280px;
+    left: 400px;
+    font-size: 60px;
+    padding: 20px;
+    background-color: rgb(199, 199, 199, 0.65);
+}
+
+#pancake {
+    width: 300px;
+    float: right;
+    margin-left: 15px;
+}
+
+.tags {
+    font-size: 12px;
+    background-color: #4e8098;
+    padding: 5px 10px;
+    border-radius: 3px;
+    display: inline;
+    color: white;
+    margin-right: 5px;
+}
+
+footer {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    border-top: 1px solid grey; 
+    text-align: center;
+}
